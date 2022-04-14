@@ -1,4 +1,4 @@
-var student = {id:16, phone:01938688488, name:"rony"}
+var student = {id:16, phone:938688488, name:"rony"}
 var student2 = {id:33, phone:488, name:"imran"}
 
 // console.log(student, student2);
