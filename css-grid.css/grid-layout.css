@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+
+
+
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Patua One', cursive;
+  height: 100vh;
+  background: #f3f3f3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  color: rgb(46, 41, 41);
+  text-transform: uppercase;
+  font-size: 2rem;
+  line-height: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.container {
+  width: 1100px;
+  background: #efedec;
+  box-shadow: rgba(165, 149, 149, 0.2) 0 8px 24px;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 100px 300px 400px 200px;
+  grid-gap: 30px;
+}
+
+.item-1 {
+  background: rgb(235, 177, 177);
+}
+
+.item-2 {
+  background: rgb(202, 152, 111);
+}
+
+.item-3 {
+  background: rgb(106, 174, 238);
+}
+
+.item-4 {
+  background: rgb(245, 115, 180);
+}
+
+.item-5 {
+  background: rgb(51, 185, 62);
+}
+
+.item-6 {
+  background: rgb(92, 147, 196);
+}
+
+.item-7 {
+  background: rgb(126, 128, 240);
+}
+
+.item-8 {
+  background: rgb(187, 118, 226);
+}
+
+.item-9 {
+  background: rgb(228, 120, 228);
+}
+
+.item-1{
+  grid-column: 1 /-1;
+}
+
+.item-2{
+  grid-row: 2/4;
+  grid-column: 1/2;
+}
+
+
+.item-5{
+  grid-row: 3/4;
+  grid-column: 2/-1;
+}
+
+.item-7{
+  grid-row: 4/5;
+  grid-column: 1/-1;
+}
