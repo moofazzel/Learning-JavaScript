@@ -86,6 +86,7 @@ var names = ["rony", "roy", "jos", "josu", "rony", "roy"];
 
 var uniqueName = [];
 
+
 for (i = 0; i < names.length; i++) {
   var element = names[i];
   var index = uniqueName.indexOf(element);
