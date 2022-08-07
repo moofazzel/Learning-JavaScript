@@ -11,7 +11,6 @@ const myNumbers = [44, 55, 77, 45, 34, 243, 676, 234, 22, 44, 87, 65, 34, 21];
 console.log(getSumOfArray(myNumbers));
  */
 
-
 /* // Find odd number from an array 
 const myNumbers = [44, 55, 77, 45, 34, 243, 676, 234, 22, 44, 87, 65, 34, 21];
 
@@ -28,10 +27,9 @@ function getOddNumber(num) {
 
 console.log(getOddNumber(myNumbers)); */
 
+// Find even number from an array
 
-// Find even number from an array 
-
-const myNumbers = [44, 55, 77, 45, 34, 243, 676, 234, 22, 44, 87, 65, 34, 21];
+/* const myNumbers = [44, 55, 77, 45, 34, 243, 676, 234, 22, 44, 87, 65, 34, 21];
 
 function getEvenNumber(num) {
   let evenNumber = [];
@@ -44,4 +42,4 @@ function getEvenNumber(num) {
   return evenNumber;
 }
 
-console.log(getEvenNumber(myNumbers));
+console.log(getEvenNumber(myNumbers)); */

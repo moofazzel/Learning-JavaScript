@@ -69,3 +69,7 @@ for (i = 30; i < 86; i++) {
 }
  */
 
+const num = -78;
+num = -99;
+const and = Math.abs(num);
+console.log(and);
