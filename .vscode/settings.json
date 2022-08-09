@@ -1,0 +1,74 @@
+{
+  "powermode.enabled": true,
+  "editor.cursorBlinking": "expand",
+
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontSize": 18,
+  "workbench.startupEditor": "none",
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.tabSize": 2,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.multiRootWorkspaceName": "",
+  "liveServer.settings.port": 0,
+  "workbench.colorTheme": "SynthWave '84",
+  "editor.linkedEditing": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "powermode.shake.intensity": 0,
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "liveServer.settings.https": {
+    "enable": false,
+    "cert": "",
+    "key": "",
+    "passphrase": ""
+  },
+  // "open-in-browser.default": "google chrome",
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "editor.formatOnSave": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "powermode.combo.timeout": 0,
+  "powermode.shake.enabled": false,
+  "powermode.explosions.duration": 500,
+  "powermode.explosions.maxExplosions": 5,
+  "powermode.explosions.frequency": 1,
+  "powermode.presets": "fireworks",
+  "powermode.combo.counterSize": 1,
+  "powermode.explosions.size": 4,
+  "powermode.combo.location": "editor",
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.timerEnabled": "hide",
+  "powermode.explosions.offset": 0.7,
+  "workbench.productIconTheme": "fluent-icons",
+  "tabnine.experimentalAutoImports": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "settingsSync.ignoredExtensions": [
+  
+  ],
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "window.commandCenter": true,
+  "workbench.sideBar.location": "right",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.minimumContrastRatio": 7,
+  "window.zoomLevel": 1,
+  "debug.console.fontSize": 16,
+  
+  
+  // "html-css-class-completion.enableEmmetSupport": true,
+}
