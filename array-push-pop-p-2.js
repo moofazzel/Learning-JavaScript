@@ -30,7 +30,6 @@ if (marks >= 80) {
   console.log("Your Grade is " + "F");
 }
 
-=== --------
 // Practice Problem 3
 
 var num1 = 993;
