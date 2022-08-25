@@ -22,7 +22,7 @@
   },
   "liveServer.settings.multiRootWorkspaceName": "",
   "liveServer.settings.port": 0,
-  "workbench.colorTheme": "SynthWave '84",
+  "workbench.colorTheme": "Ocean Space Italic",
   "editor.linkedEditing": true,
   "security.workspace.trust.untrustedFiles": "open",
   "powermode.shake.intensity": 0,
@@ -57,18 +57,15 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "settingsSync.ignoredExtensions": [
-  
-  ],
-  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "settingsSync.ignoredExtensions": [],
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
-  "window.commandCenter": true,
+  "window.commandCenter": false,
   "workbench.sideBar.location": "right",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.minimumContrastRatio": 7,
   "window.zoomLevel": 1,
-  "debug.console.fontSize": 16,
-  
-  
+  "debug.console.fontSize": 16
+
   // "html-css-class-completion.enableEmmetSupport": true,
 }
